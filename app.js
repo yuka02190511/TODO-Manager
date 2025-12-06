@@ -638,3 +638,4 @@ export default function TaskManager() {
     </div>
   );
 }
+ReactDOM.render(React.createElement(TaskManager), document.getElementById('root'));
